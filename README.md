@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saurzcode/saurzcode-swagger-spring.svg?branch=master)](https://travis-ci.org/saurzcode/saurzcode-swagger-spring)
+
 saurzcode-swagger-spring
 ========================
 
